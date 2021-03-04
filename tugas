@@ -1,0 +1,7 @@
+a = int(input("Masukkan Angka Anda: "))
+        if a > 0:
+            print("Bilangan Positif")
+        elif a == 0:
+            print("Bilangan nol")
+        else:
+            print("Bilangan Negatif")
